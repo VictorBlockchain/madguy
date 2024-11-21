@@ -13,7 +13,6 @@ export default function Home() {
               <Image
                   src="/img/madguy2.png"
                   alt="Mad Guy Logo"
-                  layout="intrinsic"
                   width={800} // Replace with desired width
                   height={800} // Replace with desired height
                   className=""
@@ -77,14 +76,14 @@ export default function Home() {
             </div>
           </div>
         </section>
-
+        
         {/* Tokenomics Section */}
         <section className="bg-comic-purple rounded-2xl overflow-hidden shadow-lg mb-6 sm:mb-10 border-4 border-comic-black">
           <div className="bg-comic-purple m-2 rounded-xl relative py-12 px-4 sm:py-16 sm:px-6 md:py-20 md:px-8">
             <div className="absolute inset-0 bg-halftone-dots opacity-10"></div>
             <div className="relative z-10">
               <h2 className="font-bangers text-4xl sm:text-5xl text-white text-comic-purple mb-8 sm:mb-12 text-center comic-shadow">
-                Mad Tokenomics
+                Mad Guy Tokenomics
               </h2>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-6 sm:gap-8">
                 <div className="bg-comic-green text-comic-black p-6 sm:p-8 rounded-lg transform rotate-3 hover:rotate-0 transition-transform border-4 border-comic-black shadow-lg">
