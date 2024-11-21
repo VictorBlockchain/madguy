@@ -1,0 +1,1 @@
+self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/Users/jl1013/Documents/FUTURO/current/madguy/app/layout\":[\"static/media/2c2fc5ac4fb02646-s.p.woff2\",\"static/media/b298f373c0960056-s.p.woff2\",\"static/media/d6ad45bb51fe3f74-s.p.woff2\",\"static/media/b90d14ccc4cd9a5b-s.p.woff2\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"
