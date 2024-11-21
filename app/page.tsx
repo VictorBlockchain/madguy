@@ -135,7 +135,7 @@ export default function Home() {
                 Disclaimer
               </h2>
               <div className="flex justify-center space-x-4 sm:space-x-8">
-                <p className="mt-3">mad guy is a meme token with no intrinsic value and No promise of financial gains. Use as for crypto trading eduction purposes. <br/><br/>copyright madguy.xyz 2024</p>
+                <p className="mt-3">mad guy is a meme token with no intrinsic value and No promise of financial gains. Use for crypto trading eduction purposes. <br/><br/>copyright madguy.xyz 2024</p>
 
               </div>
             </div>
