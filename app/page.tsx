@@ -98,9 +98,9 @@ export default function Home() {
             </div>
           </div>
         </section>
-
+        
         {/* Community Links */}
-        <section className="bg-comic-green rounded-2xl overflow-hidden shadow-lg border-4 border-comic-black">
+        <section className="bg-comic-green rounded-2xl overflow-hidden shadow-lg border-4 border-comic-black mb-6">
           <div className="bg-comic-green m-2 rounded-xl relative py-12 px-4 sm:py-16 sm:px-6 md:py-20 md:px-8">
             <div className="absolute inset-0 bg-halftone-dots opacity-10"></div>
             <div className="relative z-10 text-center">
@@ -120,6 +120,23 @@ export default function Home() {
                     {item.emoji}
                   </a>
                 ))}
+              </div>
+              <p>mad guy is a meme token with no intrinsic value and No promise of financial gains. Use as for crypto trading eduction purposes.</p>
+            </div>
+          </div>
+        </section>
+                {/* disclaimer */}
+        
+        <section className="bg-white rounded-2xl overflow-hidden shadow-lg border-4 border-comic-black mt-6">
+          <div className="bg-white m-2 rounded-xl relative py-12 px-4 sm:py-16 sm:px-6 md:py-20 md:px-8">
+            <div className="absolute inset-0 bg-halftone-dots opacity-10"></div>
+            <div className="relative z-10 text-center">
+              <h2 className="font-bangers text-4xl sm:text-5xl text-white mb-8 sm:mb-12 comic-shadow">
+                Disclaimer
+              </h2>
+              <div className="flex justify-center space-x-4 sm:space-x-8">
+                <p className="mt-3">mad guy is a meme token with no intrinsic value and No promise of financial gains. Use as for crypto trading eduction purposes. <br/><br/>copyright madguy.xyz 2024</p>
+
               </div>
             </div>
           </div>
