@@ -25,9 +25,9 @@ export default function Home() {
               <p className="text-2xl sm:text-3xl md:text-4xl font-bold text-comic-blue comic-shadow">fucking dev!</p>
               <p className="text-2xl sm:text-3xl md:text-4xl font-bold text-comic-blue comic-shadow mt-3">fuck i shouldn't have sold!</p>
               <p className="text-xl sm:text-2xl md:text-3xl font-bold text-comic-blue comic-shadow mt-3 break-words">
-  contract: 13Ltbk5PkGjp72x7VkxPS8Vzu9WAcV6nY7bgcQAapump
-</p>
-            
+                contract: 13Ltbk5PkGjp72x7VkxPS8Vzu9WAcV6nY7bgcQAapump
+              </p>
+              <p className="text-center"><a href="https://x.com/madguy_onSol" target='_blank'>Twitter</a> | <a href="https://t.me/madguy_solana" target='_blank'>Telegram</a></p>
             </div>
           </div>
         </section>
@@ -109,8 +109,8 @@ export default function Home() {
               </h2>
               <div className="flex justify-center space-x-4 sm:space-x-8">
                 {[
-                  { emoji: '🐦', color: 'bg-comic-blue', link:'https://x.com/madguy_solona' },
-                  { emoji: '💬', color: 'bg-comic-green',link:'https://t.me/madguymto' },
+                  { emoji: '🐦', color: 'bg-comic-blue', link:'https://x.com/madguy_onSol' },
+                  { emoji: '💬', color: 'bg-comic-green',link:'https://t.me/madguy_solana' },
                 ].map((item, index) => (
                   <a
                     key={index}
