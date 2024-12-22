@@ -22,12 +22,12 @@ export default function Home() {
               <h1 className="font-bangers text-6xl sm:text-7xl md:text-8xl mb-4 text-comic-red stroke-comic-black tracking-wider transform -rotate-2">
                 Mad Guy
               </h1>
-              <p className="text-2xl sm:text-3xl md:text-4xl font-bold text-comic-blue comic-shadow">fucking dev!</p>
-              <p className="text-2xl sm:text-3xl md:text-4xl font-bold text-comic-blue comic-shadow mt-3">fuck i shouldn't have sold!</p>
-              <p className="text-xl sm:text-2xl md:text-3xl font-bold text-comic-blue comic-shadow mt-3 break-words">
+              <p className="text-2xl sm:text-3xl md:text-4xl font-bold text-comic-blue comic-shadow text-white">fucking dev!</p>
+              <p className="text-2xl sm:text-3xl md:text-4xl font-bold text-comic-blue comic-shadow mt-3 text-white">fuck i shouldn't have sold!</p>
+              <p className="text-xl sm:text-2xl md:text-3xl font-bold text-comic-blue comic-shadow mt-3 break-words text-white">
                 contract: 13Ltbk5PkGjp72x7VkxPS8Vzu9WAcV6nY7bgcQAapump
               </p>
-              <p className="text-center"><a href="https://x.com/madguy_onSol" target='_blank'>Twitter</a> | <a href="https://t.me/madguy_solana" target='_blank'>Telegram</a></p>
+              <p className="text-center text-xl sm:text-2xl md:text-3xl font-bold text-comic-blue comic-shadow mt-3 break-words text-white"><a href="https://x.com/madguy_onSol" target='_blank'>Twitter</a> | <a href="https://t.me/madguy_solana" target='_blank'>Telegram</a></p>
             </div>
           </div>
         </section>
