@@ -27,7 +27,7 @@ export default function Home() {
               <p className="text-xl sm:text-2xl md:text-3xl font-bold text-comic-blue comic-shadow mt-3 break-words text-white">
                 contract: 13Ltbk5PkGjp72x7VkxPS8Vzu9WAcV6nY7bgcQAapump
               </p>
-              <p className="text-center text-xl sm:text-2xl md:text-3xl font-bold text-comic-blue comic-shadow mt-3 break-words text-white"><a href="https://x.com/madguy_onSol" target='_blank'>Twitter</a> | <a href="https://t.me/madguy_solana" target='_blank'>Telegram</a></p>
+              <p className="text-center text-xl sm:text-2xl md:text-3xl font-bold text-comic-blue comic-shadow mt-3 break-words text-white"><a href="https://x.com/madguy_cto" target='_blank'>Twitter</a> | <a href="https://t.me/madguy_cto" target='_blank'>Telegram</a></p>
             </div>
           </div>
         </section>
